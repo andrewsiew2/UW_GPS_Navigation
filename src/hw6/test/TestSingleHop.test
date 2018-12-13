@@ -1,0 +1,5 @@
+# Tests for if a path from a node to another with a single hop can be found
+
+LoadGraph tester testing.tsv
+
+FindPath tester BATMAN SUPERMAN

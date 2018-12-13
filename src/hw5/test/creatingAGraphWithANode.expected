@@ -1,0 +1,11 @@
+# Will test whether a single node was added to a graph
+
+# Create a graph
+created graph graphWithANode
+
+# Add a node
+added node NodeA to graphWithANode
+
+# Print the nodes in the graph and the outgoing edges 
+graphWithANode contains: NodeA 
+the children of NodeA in graphWithANode are:

@@ -1,0 +1,5 @@
+# Tests if the path chosen is always the shortest path when a longer path exists
+
+LoadGraph tester testing.tsv
+
+FindPath tester DARKSEID SPIDERMAN

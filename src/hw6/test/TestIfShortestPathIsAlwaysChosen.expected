@@ -1,0 +1,7 @@
+# Tests if the path chosen is always the lexicographically least path
+
+loaded graph tester
+
+path from THANOS to SPIDERMAN:
+THANOS to GROOT via 1
+GROOT to SPIDERMAN via 2

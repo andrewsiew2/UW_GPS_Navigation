@@ -1,0 +1,6 @@
+# Find a path with Dijkstra's algorithm when there is only one possible path
+# Loads data from testing.tsv
+
+LoadGraph test testing.tsv
+
+FindPath test DOOM INVOKER

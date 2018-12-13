@@ -1,0 +1,15 @@
+# Test if a node can point to itself twice
+
+# Create a graph
+CreateGraph graphWithANode
+
+# Add a pair of nodes
+AddNode graphWithANode NodeA
+
+# Add an edge
+AddEdge graphWithANode NodeA NodeA labelA
+AddEdge graphWithANode NodeA NodeA labelB
+
+# Print the nodes in the graph and the outgoing edges
+ListNodes graphWithANode
+ListChildren graphWithANode NodeA

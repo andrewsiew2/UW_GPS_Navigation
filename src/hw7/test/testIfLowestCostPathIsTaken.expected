@@ -1,0 +1,9 @@
+# Find a path with Dijkstra's algorithm when there are 2 possible paths
+# tests if it takes the lowest cost path
+
+loaded graph test
+
+path from SPECTRE to BARA:
+SPECTRE to MORTRED with weight 0.500
+MORTRED to BARA with weight 1.000
+total cost: 1.500

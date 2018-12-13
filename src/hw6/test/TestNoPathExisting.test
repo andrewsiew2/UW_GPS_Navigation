@@ -1,0 +1,5 @@
+# Tries to find a path from a node to another node whose path does not exist
+
+LoadGraph tester testing.tsv
+
+FindPath tester LUTHER SUPERMAN

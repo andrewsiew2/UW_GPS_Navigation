@@ -1,0 +1,6 @@
+# Find a path with Dijkstra's algorithm when there is no possible path
+
+loaded graph test
+
+path from BATMAN to INVOKER:
+no path found

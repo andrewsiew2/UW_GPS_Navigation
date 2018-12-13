@@ -1,0 +1,14 @@
+CSE 331 Homework 6.  Answers to Written questions.
+Edit this file to supply your answers.
+
+Name:  Andrew
+
+Briefly describe any changes made to your Graph ADT from HW5 and why 
+those changes were made below.  (See the HW6 assignment for details.)
+
+I did a complete change of my ADT which uses a HashMap with Strings as Keys and A list of Edges as Values. This is because
+using my previous implementation took about 10 mins to construct the graph and there were a lot of unnecessary methods
+to make it work. This also made it easier for me to write code to find the shortest paths between two nodes.
+
+I changed my Node class to and Edge class. This is because the node class only contained a single field which would be
+the same as using a String so I used an Edge class to contain more information.

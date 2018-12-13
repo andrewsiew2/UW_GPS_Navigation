@@ -1,0 +1,6 @@
+# Find a path with Dijkstra's algorithm when there are 2 possible paths
+# tests if it takes the lowest cost path
+
+LoadGraph test testing.tsv
+
+FindPath test SPECTRE BARA

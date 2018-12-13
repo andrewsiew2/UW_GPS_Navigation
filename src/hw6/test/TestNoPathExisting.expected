@@ -1,0 +1,6 @@
+# Tries to find a path from a node to another node whose path does not exist
+
+loaded graph tester
+
+path from LUTHER to SUPERMAN:
+no path found

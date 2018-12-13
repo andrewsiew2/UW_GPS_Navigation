@@ -1,0 +1,5 @@
+# Find a path with Dijkstra's algorithm when the source and destination is itself
+
+LoadGraph test testing.tsv
+
+FindPath test NEVERMORE NEVERMORE

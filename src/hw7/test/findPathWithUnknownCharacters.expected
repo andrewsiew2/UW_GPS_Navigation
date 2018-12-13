@@ -1,0 +1,7 @@
+# Find a path with Dijkstra's algorithm when there are 2 possible paths
+# with the same cost. It will take the shorter Path in terms of nodes
+
+loaded graph test
+
+unknown character GAMBLER
+unknown character DOTA

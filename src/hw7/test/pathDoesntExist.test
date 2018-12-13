@@ -1,0 +1,5 @@
+# Find a path with Dijkstra's algorithm when there is no possible path
+
+LoadGraph test testing.tsv
+
+FindPath test BATMAN INVOKER

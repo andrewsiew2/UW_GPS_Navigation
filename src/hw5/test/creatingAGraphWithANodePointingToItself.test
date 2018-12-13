@@ -1,0 +1,14 @@
+# Test if a node can point to itself
+
+# Create a graph
+CreateGraph graphWithANode
+
+# Add a node
+AddNode graphWithANode NodeA
+
+# Add an edge
+AddEdge graphWithANode NodeA NodeA label
+
+# Print the nodes in the graph and the outgoing edges
+ListNodes graphWithANode
+ListChildren graphWithANode NodeA

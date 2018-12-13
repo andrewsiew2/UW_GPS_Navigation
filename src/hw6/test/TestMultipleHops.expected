@@ -1,0 +1,8 @@
+# Tests for if a path from a node to another with a multiple hops can be found
+
+loaded graph tester
+
+path from WONDER WOMAN to THOR:
+WONDER WOMAN to HULK via 25
+HULK to ROBIN via 90
+ROBIN to THOR via 23

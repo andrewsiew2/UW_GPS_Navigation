@@ -1,0 +1,9 @@
+# Find a path with Dijkstra's algorithm when there is only one possible path
+# Loads data from testing.tsv
+
+loaded graph test
+
+path from DOOM to INVOKER:
+DOOM to NECRO with weight 0.500
+NECRO to INVOKER with weight 1.000
+total cost: 1.500

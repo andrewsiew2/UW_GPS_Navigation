@@ -1,0 +1,7 @@
+# Verify that the program handles the case if the source is an unknown building
+r
+OOG
+CSE
+
+# All of your test scripts should end with q to terminate the program.
+q

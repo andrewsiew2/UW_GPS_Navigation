@@ -1,0 +1,5 @@
+# Verify that the program handles the input b correctly
+b
+
+# All of your test scripts should end with q to terminate the program.
+q

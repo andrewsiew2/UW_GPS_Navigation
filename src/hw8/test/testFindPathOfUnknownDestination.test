@@ -1,0 +1,7 @@
+# Verify that the program handles the case if the destination is an unknown building
+r
+CSE
+OOG
+
+# All of your test scripts should end with q to terminate the program.
+q

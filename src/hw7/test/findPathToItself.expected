@@ -1,0 +1,6 @@
+# Find a path with Dijkstra's algorithm when the source and destination is itself
+
+loaded graph test
+
+path from NEVERMORE to NEVERMORE:
+total cost: 0.000

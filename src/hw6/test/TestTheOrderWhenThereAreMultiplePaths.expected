@@ -1,0 +1,8 @@
+# Tests if the path chosen is always the shortest path when a longer path exists
+
+loaded graph tester
+
+path from DARKSEID to SPIDERMAN:
+DARKSEID to THANOS via 9000
+THANOS to GROOT via 1
+GROOT to SPIDERMAN via 2

@@ -1,0 +1,6 @@
+# Tests for if a path from a node to another with a single hop can be found
+
+loaded graph tester
+
+path from BATMAN to SUPERMAN:
+BATMAN to SUPERMAN via 28

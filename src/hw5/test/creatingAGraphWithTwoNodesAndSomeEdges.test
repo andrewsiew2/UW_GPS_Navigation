@@ -1,0 +1,17 @@
+# Test if two nodes can be created in a graph with edges
+
+# Create a graph
+CreateGraph graphWithTwoNodes
+
+# Add a pair of nodes
+AddNode graphWithTwoNodes NodeA
+AddNode graphWithTwoNodes NodeB
+
+# Add an edge
+AddEdge graphWithTwoNodes NodeA NodeB labelA
+AddEdge graphWithTwoNodes NodeB NodeA labelB
+
+# Print the nodes in the graph and the outgoing edges
+ListNodes graphWithTwoNodes
+ListChildren graphWithTwoNodes NodeA
+ListChildren graphWithTwoNodes NodeB
